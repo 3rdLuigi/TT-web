@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+ -->
+<html>
+    <head>
+        <link href="favicon.ico" rel="icon" type="image/x-icon" />
+      	<title>Theta Tau | UC Merced</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    </head>
+
+    <body>
+
+        <!-- Page Wrapper -->
+        <div id="page-wrapper">
+
+            <!-- Header -->
+            <header id="header">
+                <h1><a href="index.html">Theta Tau | Mu Delta Chapter</a></h1>
+                <center> <h3> </h3> </center>
+                <nav id="nav">
+                    <ul>
+                        <li class="special">
+                            <a href="#menu" class="menuToggle"><span>Menu</span></a>
+                            <div id="menu">
+                              <ul>
+          											<li><a href="index.html">Home</a></li>
+          											<li><a href="about.html">About Us</a></li>
+          											<li><a href="join.html">Join Theta Tau</a></li>
+          										<!--	<li><a href="#">Events</a></li> -->
+          										<li><a href="members.html">Members</a></li>
+          										<li><a href="contact.html">Contact</a></li>
+
+          											<li><a href="https://ucmcrops.ucmerced.edu/portal/site/4e41bcee-3958-4f33-b0b9-7099d980b8c7">Member Site</a></li>
+          										</ul>
+                </nav>
+            </header>
+
+            <!-- Main -->
+            <article id="mainmembers">
+                <header>
+                    <h2>Our Alumni</h2>
+                    <p></p>
+                </header>
+                <section class="wrapper style5">
+                    <div class="inner">
+
+                        <h2><span> <center> Zeta Class </center></span></h2>
+                    <div class="row uniform 40%">
+                        	<div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/mon2.jpg" style="width:250px;height:250px;" alt="" />   <center><p>69 Monica  hi kimmy Barbadillo<br>A.S.S.H.O.L.E.S. <br> ME'17 </p> </center></span></div>
+                        	
+
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/70_RJ.jpg" style ="width:90%;height" alt="" />   <center><p>70 Alejandro Bunag<br>T.N.T. <br> BioE'17 </p> </center></span></div>
+                           
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/71_Jay.jpg" style ="width:90%;height" alt="" />   <center><p>71 Jonathan Diaz<br>Ockham <br> ME'19 </p> </center></span></div>
+                        
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/Kappa Class/104_Eduardo.jpg" style ="width:90%;height" alt="" />   <center><p>72 Yongyi Guan<br>T.N.T.  <br> CSE'17 </p> </center></span></div>
+
+ <div class="row uniform 40%">
+                        	<div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/jimmie.jpg"  style="width:250px;height:250px;" alt="" />   <center><p>73 Jimmie Hagle<br> Rossoneri <br> CSE'18 </p> </center></span></div>
+
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/74_Adrian.jpg" style ="width:90%;height" alt="" />   <center><p>74 Adrian Hernandez<br>Ockham <br> ME'16 </p> </center></span></div>
+                           
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/omeeherr.jpg" style ="width:90%;height" alt="" />   <center><p>75 Omee Herr<br>T.N.T.  <br> CSE'16 </p> </center></span></div>
+                        
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/76_Miguel.jpg" style ="width:90%;height" alt="" />   <center><p>76 Miguel Lopez <br> Aviator  <br> ME'17 </p> </center></span></div>
+
+                        	<div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/shy.jpg" style ="width:250px;height:250px;" alt="" />   <center><p>77 Sovanarry Phy <br> Rossoneri  <br> ME'19 </p> </center></span></div>
+
+                            <div class="3u"><span class="image fit"><img src="Alumni/headshots/ZetaClass/josh.jpg" style="width:250px;height:250px;" alt="" />   <center><p>78 Joshua  testing Tabimina<br> HΘΤ D.A.M. <br> ME'19 </p> </center></span></div>
+                           
+                            
+                           
+            </article>
+
+            <!-- Footer -->
+            <footer id="footer">
+
+              <ul class="icons">
+  							<li><a href="https://twitter.com/ucmthetatau" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+  							<li><a href="https://www.facebook.com/Mu-Delta-Chapter-of-Theta-Tau-168559319891578/?fref=ts" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+  							<li><a href="https://www.instagram.com/mdthetatau/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+  							<!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>-->
+  							<li><a href="MAILTO:thetatau@ucmerced.edu" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+  						</ul>
+
+                <ul class="copyright">
+                    <p>"Whatsoever thy hand findeth to do, do it with thy might;..." ~Ecclesiastes 9:10</p>
+                    <li>&copy; 2016</li><li>Theta Tau at UC Merced</li>
+                </ul>
+            </footer>
+
+        </div>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrollex.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+        <script src="assets/js/main.js"></script>
+
+    </body>
+</html>
